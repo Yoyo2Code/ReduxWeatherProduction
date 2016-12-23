@@ -16,6 +16,10 @@ npm start
 ```
 Once server is started, type a city name into the search bar and click enter or 'search'.
 
+# Deployed on Heroku
+
+https://sleepy-hamlet-38002.herokuapp.com/
+
 # Further information
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
