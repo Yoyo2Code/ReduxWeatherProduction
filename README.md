@@ -4,7 +4,7 @@ React-Redux application used to look up weather for locations around the United 
 
 # Getting started
 
-## API key
+## Using API key
 
 Go to `http://openweathermap.org/forecast5` and sign up for a free API key.
 
